@@ -19,6 +19,33 @@
   Open the file in a browser and verify the output.
   
 ## CODE
+```
+<html>
+    <head>
+        Animals list
+    </head>
+    <body>
+        <ul>
+            
+            <li>Cat</li>
+            <li>Dog</li>
+            <li>Cow</li>
+            <li>Goat</li>
+            <li>Pig</li>
+      
+            
+        </ul>
+        <ol>
+            <li>Lion </li>
+            <li>Tiger</li>
+            <li>Wolf</li>
+            <li>Elephant</li>
+            <li>Giraffe</li>
+        </ol>
+
+    </body>
+</html>
+```
 
 
 ## OUTPUT
